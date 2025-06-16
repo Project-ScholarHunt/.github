@@ -11,6 +11,6 @@
 | Name                      | ITENAS NIM        | Role     |
 |---------------------------|-------------------|-------------------|
 | Farrel Satriano | 162022029   | Front End Developer, UI/UX Designer |
-| Rizal Ahmad Saepulloh | 162022404		     | Back End Developer, UI/UX Designer |
-| Muhammad Ardhie Abdul Ghani | 162022054  | Front End Developer, System Analyst  |
-| Muhammad Axel Syahwin | 162022059	  | Back End Developer | 
+| Rizal Ahmad Saepulloh | 162022404		     | Full Stack Developer, UI/UX Designer |
+| Muhammad Ardhie Abdul Ghani | 162022054  | Full Stack Developer, System Analyst  |
+| Muhammad Axel Syahwin | 162022059	  | Full Stack Developer | 
