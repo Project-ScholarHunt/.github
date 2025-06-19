@@ -1,7 +1,7 @@
 <h1 align="center">Scholar Hunt: A Scholarship Provider App</h1>
 <br>
 
-<h3 align="center">Capstone Project for Web Information System Course in Institute of National Technology Bandung</h3>
+<h3 align="center">Capstone Project for Web Information System Course in Institut Teknologi Nasional Bandung</h3>
 <h4 align="center">Team 2</h4>
 
 ---
