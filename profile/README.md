@@ -8,12 +8,39 @@
 
 ## Team
 
-| Name                      |  NIM        | Role     |
-|---------------------------|-------------------|-------------------|
-| name | nim code | Front End Developer, UI/UX Designer |
-| name | nim code | Full Stack Developer, UI/UX Designer |
-| name | nim code | Full Stack Developer, System Analyst  |
-| name | nim code | Full Stack Developer |
+<div align="center">
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>NIM</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Farrel Satriano</td>
+      <td>162022029</td>
+      <td>Front End Developer, UI/UX Designer, Video Editor</td>
+    </tr>
+    <tr>
+      <td>Rizal Ahmad Saepulloh</td>
+      <td>162022040</td>
+      <td>Full Stack Developer, UI/UX Designer, System Analyst</td>
+    </tr>
+    <tr>
+      <td>Muhammad Ardhie Abdul Ghani</td>
+      <td>162022054</td>
+      <td>Full Stack Developer, System Analyst</td>
+    </tr>
+    <tr>
+      <td>Muhammad Axel Syahwin</td>
+      <td>162022059</td>
+      <td>Full Stack Developer, Software Tester</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ---
 
