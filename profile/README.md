@@ -3,17 +3,19 @@
 
 <h3 align="center">Capstone Project for Web Information System Course in Institute of National Technology Bandung</h3>
 <h4 align="center">Team 2</h4>
-<br>
 
+---
 
 ## Team
 
-| Name                      | ITENAS NIM        | Role     |
+| Name                      |  NIM        | Role     |
 |---------------------------|-------------------|-------------------|
-| Farrel Satriano | 162022029   | Front End Developer, UI/UX Designer |
-| Rizal Ahmad Saepulloh | 162022404		     | Full Stack Developer, UI/UX Designer |
-| Muhammad Ardhie Abdul Ghani | 162022054  | Full Stack Developer, System Analyst  |
-| Muhammad Axel Syahwin | 162022059	  | Full Stack Developer | 
+| name | nim code | Front End Developer, UI/UX Designer |
+| name | nim code | Full Stack Developer, UI/UX Designer |
+| name | nim code | Full Stack Developer, System Analyst  |
+| name | nim code | Full Stack Developer |
+
+---
 
 ## 🎓 ScholarHunt: A solution to overcome challenges in the scholarship application process in Indonesia
 
@@ -22,7 +24,7 @@
 > According to data from the Ministry of Education, Culture, Research, and Technology (Kemendikbudristek), there are over **9 million active university students** in Indonesia. Many of them require **financial support**.  
 > For example, the **KIP Kuliah Merdeka program in 2023** received more than **900,000 applicants**, indicating the massive demand for scholarships.
 
----
+<br>
 
 ### 2. Inefficient & Costly Manual Processes
 
@@ -30,7 +32,7 @@
 - **The process of sending and compiling documents by the committee can take several days or even weeks.**
 - Physical documents are **prone to being lost, damaged, or misplaced** during delivery and storage, causing inconvenience to both applicants and the committee.
 
----
+<br>
 
 ### 3. Lack of Transparency and Access to Information (Uncertainty of Status)
 
@@ -51,17 +53,21 @@
 - Upload documents in **PDF format**, eliminating the cost of printing and shipping.
 - Applicant data is **securely stored and centralized** in the cloud.
 
----
+<br>
 
 ### 📡 Real-Time Monitoring & Automated Notifications
 
 - Students can monitor their application status (“In Process”, “Accepted”, “Rejected”) directly from their **dashboard**.
 - The system sends **automated email notifications** of the selection results simultaneously.
 
----
+<br>
 
 ### 📊 Smart & Efficient Admin Dashboard
 
 - All applicant data and documents are **available in one place**.
 - Document verification is conducted **digitally**, making it faster and more accurate.
 - Key statistics (average GPA, number of applicants, etc.) are calculated **automatically** to support **objective decision-making**.
+
+---
+
+## Sources 📃
